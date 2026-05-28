@@ -102,7 +102,7 @@ if seccion == "📊 Dashboard":
     gf = gastos[gastos["proyecto"].isin(proy_lista)]
 
     # ── Título ───────────────────────────────────────────────
-    st.title("📊 Dashboard de Cambria")
+    st.title("Dashboard de Cambria")
     st.caption("Los datos se actualizan automáticamente al registrar información nueva.")
     st.divider()
 
