@@ -72,7 +72,7 @@ mf = materiales[materiales["proyecto"].isin(proy_lista)]
 gf = gastos[gastos["proyecto"].isin(proy_lista)]
 
 # ── Título ───────────────────────────────────────────────────
-st.title("🏗️ Dashboard de Cambria Constructora")
+st.title("Dashboard de Cambria Constructora")
 st.caption("Seguimiento en tiempo real de proyectos, materiales, gastos e inventario")
 st.divider()
 
