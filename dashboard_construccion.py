@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 from datetime import date
 
 st.set_page_config(
-    page_title="🏗️ Construcciones Dashboard",
+    page_title="Construcciones Dashboard",
     page_icon="🏗️",
     layout="wide"
 )
